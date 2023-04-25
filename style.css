@@ -50,6 +50,9 @@ section{
     border-bottom: .1rem solid rgba(0, 0, 0, .2) ;
 
 }
+.header i{
+    size: 30px;
+}
 
 .logo {
     font-size: 2.5rem;
