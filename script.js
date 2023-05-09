@@ -58,13 +58,7 @@ ScrollReveal().reveal('.home-img, .services-container, .portfolio-box, .contact 
   
 
 // =============================typed js==========
-const typed = new Typed('#multiple-text', {
-    strings: ['Frontend Developer', 'youtuber', 'blogger'],
-    typespeed: 100,
-    backspeed: 100,
-    backDelay: 1000,
-    loop: true
-})
+
 // import Typed from 'typed.js';
 
 // const typed = new Typed('.multiple-text', {
